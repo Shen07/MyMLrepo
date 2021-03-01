@@ -1,2 +1,2 @@
 # MyMLrepo
-Data Science and ML projects i hhave done as part of my learning.
+Data Science and ML projects i have done as part of my learning.
